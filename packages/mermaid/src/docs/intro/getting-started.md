@@ -9,6 +9,8 @@ outline: 'deep' # shows all h3 headings in outline in Vitepress
 1. Deployment
 2. Syntax
 3. Configuration
+4. bigger font
+   
 
 This section talks about the different ways to **deploy** Mermaid.
 
